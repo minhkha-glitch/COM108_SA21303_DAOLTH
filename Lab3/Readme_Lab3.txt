@@ -2,9 +2,9 @@
 Input: Nhập vào dtb của Sinh Viên từ 0 đến 10 
 Output: Xuất ra màn hình Học lực của Sinh Viên
 Nếu dtb>=9 -> Học Lực Xuất Sắc
-Nếu dtb>=8 và dtn<9 -> Học Lực Giỏi
-Nếu dtb>=6.5 và dtn<8 -> Học Lực Khá
-Nếu dtb>=5 và dtn<6.5 -> Học Lực Trung Bình
+Nếu dtb>=8 và dtb<9 -> Học Lực Giỏi
+Nếu dtb>=6.5 và dtb<8 -> Học Lực Khá
+Nếu dtb>=5 và dtb<6.5 -> Học Lực Trung Bình
 Ngược lại Học Lực Yếu
 # Bài 2: Giải phương trình bậc nhất
 Phương trình có dạng ax + b = 0
